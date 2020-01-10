@@ -1,0 +1,9 @@
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\bin\Debug\JiffyInstaller.exe.config
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\bin\Debug\JiffyInstaller.exe
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\bin\Debug\JiffyInstaller.pdb
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.exe
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.pdb
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csproj.ResolveComReference.cache
