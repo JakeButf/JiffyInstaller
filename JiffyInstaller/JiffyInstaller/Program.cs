@@ -32,6 +32,18 @@ namespace JiffyInstaller
             string a = Console.ReadLine();
             if (a == "y")
             {
+                string temp = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase);
+                string source = temp.Substring(6);
+                Console.WriteLine(@"Type directory (ex C:\Program Files (x86)\Untitled Folder\:");
+                string target = Console.ReadLine();
+                try
+                {
+                    DirectoryCopy(source, target, true);
+                } catch(Exception ex)
+                {
+                    Console.WriteLine(ex);
+                    Main(args);
+                }
 
             }
             else

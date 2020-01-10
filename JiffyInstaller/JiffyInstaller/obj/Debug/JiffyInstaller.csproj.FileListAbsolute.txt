@@ -7,3 +7,12 @@ C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstall
 C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.pdb
 C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
 C:\Users\Jacob\source\repos\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csproj.ResolveComReference.cache
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\bin\Debug\JiffyInstaller.exe.config
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\bin\Debug\JiffyInstaller.exe
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\bin\Debug\JiffyInstaller.pdb
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csproj.ResolveComReference.cache
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.exe
+C:\Users\Student\Desktop\JiffyInstaller-master\JiffyInstaller\JiffyInstaller\obj\Debug\JiffyInstaller.pdb
